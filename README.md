@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fweonjinho&count_bg=%232196F3&title_bg=%230D47A1&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/weonjinho&count_bg=%232196F3&title_bg=%230D47A1&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com) &nbsp;
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weonjinho&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp;
 ![WeonJinHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=weonjinho&show_icons=true&theme=vue-dark)
